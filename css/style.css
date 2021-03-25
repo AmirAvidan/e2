@@ -1,0 +1,346 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+header,main,nav,footer,section {
+    display: block;
+}
+
+p {
+    font-family: Lato;
+}
+
+header{
+    width: 100%;
+    padding-top: 59px;
+    padding-left: 51.45px;
+    width: 657px;
+}
+
+
+
+.red
+{
+    background-color: #ED4C5C;
+    height: 657px;
+    width: 1440px;
+    
+}
+
+
+#logo
+{
+    background-image: url("../images/logo.ico");
+    display: block;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+#logo span
+{
+    margin-left: 31.9px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    font-family: Lato;
+    color: #fff;
+}
+
+span 
+{
+    font-family: Lato;
+}
+
+
+nav 
+{
+    padding-top: 48px;
+    padding-left: 49px;
+    align-items: center;
+
+}
+
+nav a
+{
+    padding: 8px;
+}
+
+nav a:hover
+{
+    color:#525352;
+}
+
+.bottom_red img
+{
+    border-radius: 15px;
+    display: block;
+    margin-left: 89px;
+    margin-top: 45px;
+}
+
+
+.bottom_red button
+{
+    margin-left: 50px;
+    margin-top: 45px;
+    width: 160px;
+    height: 50px;
+    color:#ED4C5C;
+    font-size: 14px;
+    border-radius: 6px;
+    background: #fff;
+    border: none;
+}
+
+main
+{
+    width: 1440px;
+    height: 657px;
+}
+
+main h2
+{
+    padding-top: 56px;
+    padding-left: 50px;
+    font-size: 36px;
+    color: #000000;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.main_top p
+{
+    width: 445px;
+    height: 83px;
+    padding-left: 50px;
+    margin-top: 30px;
+    line-height: 140%;
+    text-align: justify;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.main_top a
+{
+    width: 72px;
+    height: 26.28px;
+    color: #ED4C5C;
+    padding-left: 50px;
+    margin-top: 30px;
+    display: block;
+    text-align: justify;
+    font-size: 14px;
+    line-height: 140%;
+    font-family: Lato;
+}
+
+
+.pics
+{
+    padding-top: 40.72px;
+    padding-left: 50px;
+}
+
+
+
+.pics a
+{
+    color: #ED4C5C;
+    position: absolute;
+    border-radius: 8px;
+    text-align: center;
+    z-index: 2;
+    margin-top: 218px;
+}
+
+.pics span
+{
+    box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    width: 350px;
+    height: 40px;
+    z-index: 5;
+    background-color: #fff;
+    margin-top: 209px;
+    z-index: 1;
+    border-radius: 8px;
+}
+
+.pics img
+{
+    position: absolute;
+    width:350px;
+    height: 248.86px;
+    border-radius: 8px;
+    z-index: 0;
+}
+
+a.football
+{
+    margin-left: 140px;
+}
+
+a.footvolley
+{
+    margin-left: 525px;
+}
+
+.footvolley
+{
+    margin-left: 380px;
+}
+
+.job
+{
+    margin-left: 760px;
+}
+
+a.job
+{
+    margin-left: 863px;
+}
+
+
+.grey
+{
+    width: 1440px;
+    height: 657px;
+    padding-top: 57px;
+    background-color: #F5F4F4;
+}
+
+.grey h2
+{
+    padding-left: 50px;
+    font-size: 36px;
+    font-family: Laot;
+}
+
+.skills a
+{
+    position: absolute;
+    width: 255px;
+    height: 226px;
+    background-color: #FFFFFF;
+    background-repeat: no-repeat;
+    margin-top: 56px;
+}
+
+.square1
+{
+    margin-left: 50px;
+    position: absolute;
+}
+
+.skills p
+{
+    color: #101010;
+    width: 191px;
+    height: 51px;
+    font-size: 12px;
+    font-family: Laot;
+    padding-left: 34px;
+    padding-top: 10px;
+}
+
+.skills img
+{
+    position: absolute;
+    height: 46.88px;
+    color: #ED4C5C;
+    padding-left:100px;
+    padding-top: 71.5px;
+}
+
+.skills h3
+{
+    color: #101010;
+    margin-top: 139px;
+    margin-left: 71px;
+}
+
+.square2
+{
+    margin-left: 335px;
+}
+
+
+.square3
+{
+    margin-left: 620px;
+}
+
+.square4
+{
+    margin-left: 905px;
+}
+
+.square4 h3
+{
+    margin-left: 76px;
+}
+
+.square3 h3
+{
+    margin-left: 85px;
+}
+
+
+footer
+{
+    width: 1440px;
+    height: 80px;
+    background-color: #ED4C5C;
+    position: absolute;
+}
+
+
+.mufsa
+{
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 53px;
+}
+
+.messi
+{
+    position: absolute;
+    margin-top: 31px;
+    margin-left: 107px;
+}
+
+.hamburger
+{
+    position: absolute;
+    margin-top: 33px;
+    margin-left: 160px;
+}
+
+footer p
+{
+    position: absolute;
+    margin-top: 29px;
+    margin-left: 240px;
+    color: #fff;
+    font-size: 24px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
